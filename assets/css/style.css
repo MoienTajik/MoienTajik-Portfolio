@@ -1856,3 +1856,7 @@ label {
 	text-decoration: none;
 	color: #337ab7;
 }
+
+.nav-social>ul>li>a:hover {
+	text-decoration: none;
+}
