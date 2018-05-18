@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/moientajik
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://moientajik.github.io
+  * I am moientajik (https://keybase.io/moientajik) on keybase.
+  * I have a public key with fingerprint 2DD5 FC89 6B33 D440 B3AD  E5DA 5E0E C9D1 C341 C464
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018958ef0de789ddb76f86ea231d4ef157fe0b08c9f28abad2b9b22465ff0e108f0a",
+      "fingerprint": "2dd5fc896b33d440b3ade5da5e0ec9d1c341c464",
+      "host": "keybase.io",
+      "key_id": "5e0ec9d1c341c464",
+      "kid": "01018958ef0de789ddb76f86ea231d4ef157fe0b08c9f28abad2b9b22465ff0e108f0a",
+      "uid": "cab841e31db0381c4ecd12e2a3556419",
+      "username": "moientajik"
+    },
+    "service": {
+      "hostname": "moientajik.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1526677523,
+  "expire_in": 157680000,
+  "prev": "9a919b368b7c2d6acac95f6b322ad04681cfb125d7f2f5958e48263c55d954d1",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJbSBRRGN7tqoIiWVZIRWMXCrWZM3PmspT6YC+RlWYXynU4Z84ZHTdn
+1t1ZW9m2JKS1FyuQspfIHrIoQSp6sKALGoJBUA9ZUCCKIEIpRRbZ5YzVUz12Xg7n
+5/u+//v+8/dnzvdl+EMlhZOdm56H/EOPumK+Qz9KcxIcdkgzF0hwITp30SOERl09
+ZBEuwPECL6gaVKnJE6qoGiFYkU1VpgiIApGoKUDFpDzmVUMzgYowIgBrGABJhqbJ
+U4FXTR5xBZxp2bU0Eo5YtstkASHQNFRNxqJIJInHIiIUEgQpTw2NCIYoCYYkS4xY
+50Q9BjOHUZQWWQ6rsYc+Z+8f+P/sOzYnZyCsSgJlVMyLKmtFDSIACpAIoSwJmgeM
+0oiNGihDNzgWtV1Ub4W4ZAHH6k2WQb3Reln+whTVWm5dDP9KFo44rmM4RxiiznXD
+0YCn4DaHPcpRivXfYjq2bMImyhhNNBK1HJsLCAxpuJanLkAgy4oCgVjA0XjYilDd
+8hBQkVWeHa8PbWKSGtIEDYuyihUDEBkZyNCgyX4FAER4SWZRTSwASBQTmNCbp6QC
+WTQgJBqUiMB58RpthwtIzCaqZZJRq9ZGbixCueTjh9ULfP4M36KF87xN82WkZ//Z
+v+C1NF/bx7LyXfc+78ga2p634unM1FLSnRjrr4krXRfWTmcNJhKFO0qe5UzuuzBc
+nNsa2CsOtN05FmlJFH56Wz9+qTI1sTIr9mbjt7q02Zt07YgW79g9O374VXvFeVh/
+8bbLL7+SPHNupKq7fLB99KT9LhRc4bc+nFdiD7auL7/cnF/64Whu47Lqlp62b1+/
+ly6cSp2qOvcx+3O+eyvTf93MSlW23pqJfzmYrIjFd/Y1ntXTg+/H/fosyFyzrv2J
++XJg843FvaO4S9+fCia3tgo9vcfb77/es8m3rbPmxVBZ+hK9J9U3MZMHTx84sSqV
+t6qT3zK8oYMPrh67OtxZPJ3hpJff/Qn/H0IU
+=yC7C
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/moientajik
+
+==================================================================
